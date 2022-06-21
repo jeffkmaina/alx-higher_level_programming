@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module 2-square
+Module 4-square
 class Square
 """
 
@@ -15,7 +15,7 @@ class Square:
         Args:
             size: size of square
         """
-        self.__size = size
+        self.size = size
 
     @property
     def size(self):

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module 2-square
+Module 5-square
 class Square
 """
 
